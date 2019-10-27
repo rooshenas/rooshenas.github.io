@@ -11,4 +11,4 @@ citation: 'Rooshenas, A., Zhang, D., Sharma, G., McCallum, A., .&quot; <i>Neurip
 This paper is about training SPENs using indirect supervision that comes from reward functions.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+http://rooshenas.github.io/images/sg-spen.jpg
