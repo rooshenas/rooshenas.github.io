@@ -2,7 +2,7 @@
 title: "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks"
 collection: publications
 permalink: /publication/sg-spen
-excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions. <img src="/images/sg-spen.png">'
+excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions. <img style="height:50%;" src="/images/sg-spen.png">'
 date: 2019-10-27
 venue: 'Neurips'
 paperurl: 'http://rooshenas.github.io/files/sg-spen.pdf'
