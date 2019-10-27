@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I am post-doctoral researcher working with Andrew McCallum at UMass Amherst.
+I got my Ph.D. from University of Oregon working with Daniel Lowd.
+
 # Research Interest
 
 Energy-Based Models
