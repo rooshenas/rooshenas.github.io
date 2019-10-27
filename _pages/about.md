@@ -11,5 +11,5 @@ redirect_from:
 # Research Interest
 
 Energy-Based Models
-
 Graphical Probablistic Models
+Machine Learning
