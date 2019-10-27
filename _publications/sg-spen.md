@@ -13,5 +13,9 @@ This paper is about training SPENs using indirect supervision that comes from re
 
 
 --- 
-<br> <img style="width:40%; height:auto;" src="/images/reward.png">'
-<br> <img style="width:40%; height:auto;" src="/images/energy.gif">'
+Here I show the behavior of SG-SPEN on a toy 1-D dimensional problem, in which we have one output variable of 1000 dimension.
+The reward function shows the reward value for each of these dimensions that the output variable can take.
+<br> <img style="width:40%; height:auto;" src="/images/reward.png">
+
+I plot the negative of the energy values during training. As we can see, the energy function approximates the relative position of important local optima. 
+<br> <img style="width:40%; height:auto;" src="/images/energy.gif">
