@@ -12,3 +12,6 @@ This paper is about training SPENs using indirect supervision that comes from re
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
+--- 
+<br> <img style="width:40%; height:auto;" src="/images/reward.png">'
+<br> <img style="width:40%; height:auto;" src="/images/energy.gif">'
