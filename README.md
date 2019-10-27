@@ -1,7 +1,9 @@
 
 # Research Interest
 Energy-Based Models
+
 Probabilistic Graphical Models
+
 Machine Learning
 
 
