@@ -2,8 +2,8 @@
 title: "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks"
 collection: publications
 permalink: /publication/sg-spen
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-12-01
+excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions.'
+date: 2019-10-27
 venue: 'Neurips'
 paperurl: 'http://rooshenas.github.io/files/sg-spen.pdf'
 citation: 'Rooshenas, A., Zhang, D., Sharma, G., McCallum, A., .&quot; <i>Neurips 2019 1</i>'
