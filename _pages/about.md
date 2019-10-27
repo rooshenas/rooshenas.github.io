@@ -13,6 +13,6 @@ I got my Ph.D. from University of Oregon working with Daniel Lowd.
 
 # Research Interest
 
-Energy-Based Models
-Graphical Probablistic Models
-Machine Learning
+### Energy-Based Models
+### Graphical Probablistic Models
+### Machine Learning
