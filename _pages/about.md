@@ -15,5 +15,5 @@ Currently, I am on the job market for academic positions as well as industrial r
 
 # Research Interest
 <li> Energy-Based Models
-<li> Graphical Probablistic Models
+<li> Probablistic Graphical Models
 <li> Machine Learning
