@@ -19,3 +19,9 @@ The reward function shows the reward value for each of these dimensions that the
 
 I plot the negative of the energy values during training. As we can see, the energy function approximates the relative position of important local optima. 
 <br> <img style="width:40%; height:auto;" src="/images/energy.gif">
+
+<br><br>
+Here is a short video that describes the algorithm:
+<video width="320" height="240" controls>
+  <source src="files/sg-spen.mp4" type="video/mp4">
+</video>
