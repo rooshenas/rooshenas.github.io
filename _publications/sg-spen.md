@@ -23,5 +23,5 @@ I plot the negative of the energy values during training. As we can see, the ene
 <br><br>
 Here is a short video that describes the algorithm:
 <video width="320" height="240" controls>
-  <source src="files/sg-spen.mp4" type="video/mp4">
+  <source src="/files/sg-spen.mp4" type="video/mp4">
 </video>
