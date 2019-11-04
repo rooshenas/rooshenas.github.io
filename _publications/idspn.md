@@ -2,7 +2,7 @@
 title: "Learning Sum-Product Networks with Direct and Indirect Variable Interactions"
 collection: publications
 permalink: /publication/idspn
-excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions. <br> <img style="width:40%; height:auto;" src="/images/idspn.png">'
+excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions. <br> <img style="width:40%; height:auto;" src="/images/idspn.gif" loop=infinite>'
 date: 2014-06-01
 venue: 'ICML'
 paperurl: 'http://proceedings.mlr.press/v32/rooshenas14.pdf'
