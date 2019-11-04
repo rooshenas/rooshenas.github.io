@@ -1,7 +1,7 @@
 ---
 title: "The Libra Toolkit for Probabilistic Models"
 collection: publications
-permalink: /publication/idspn
+permalink: /publication/libra
 excerpt: 'The Libra Toolkit is a collection of algorithms for learning and inference with discrete probabilistic models. <img style="width:40%; height:auto;" src="/images/libra.png" >'
 date: 2015-12-01
 venue: 'JMLR'
