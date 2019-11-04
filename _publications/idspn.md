@@ -15,5 +15,5 @@ LearnSPN: <br>
 <img style="width:40%; height:auto;" src="/images/learnspn.gif" >
 <br>
 ID-SPN: <br>
-<img style="width:20%; height:auto;" src="/images/idspn.gif" >
+<img style="width:25%; height:auto;" src="/images/idspn.gif" >
 
