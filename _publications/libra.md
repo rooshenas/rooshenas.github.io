@@ -9,6 +9,6 @@ paperurl: 'http://jmlr.org/papers/volume16/lowd15a/lowd15a.pdf'
 citation: 'D. Lowd and A. Rooshenas, The Libra Toolkit for Probabilistic Models, Journal of Machine Learning Research, 16:2459-2463, 2015'
 ---
 
-Toolkit page is <a href='libra.cs.uoregon.edu'> here </a>
+Toolkit page is <a href='http://libra.cs.uoregon.edu'> here </a>
 
 
