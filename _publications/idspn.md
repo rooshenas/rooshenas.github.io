@@ -12,7 +12,7 @@ citation: 'Rooshenas, A., Lowd, D., Learning Sum-Product Networks with Direct an
 Illustrative comparison of LearnSPN and ID-SPN:<br>
 
 LearnSPN: <br>
-<img style="width:40%; height:auto;" src="/images/learnspn.gif" >
+<img style="width:40%; height:auto;" src="/images/learnspn.gif" loop="infinite">
 <br>
 ID-SPN: <br>
 <img style="width:30%; height:auto;" src="/images/idspn.gif" >
