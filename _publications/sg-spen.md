@@ -5,11 +5,11 @@ permalink: /publication/sg-spen
 excerpt: 'This paper is about training SPENs using indirect supervision that comes from reward functions. <br> <img style="width:40%; height:auto;" src="/images/sg-spen.png">'
 date: 2019-10-27
 venue: 'Neurips'
-paperurl: 'http://rooshenas.github.io/files/sg-spen.pdf'
+paperurl: 'http://rooshenas.github.io/files/sg_spen_neurips2019.pdf'
 citation: 'Rooshenas, A., Zhang, D., Sharma, G., McCallum, A., .&quot; <i>Neurips 2019 1</i>'
 ---
 This paper is about training SPENs using indirect supervision that comes from reward functions.
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://rooshenas.github.io/files/sg_spen_neurips2019.pdf)
 
 
 --- 
