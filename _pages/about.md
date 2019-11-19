@@ -20,8 +20,9 @@ Currently, I am on the job market for academic positions as well as industrial r
 <li> Machine Learning 
 
 
+
 # News
-<li> 11/14/19 -- Invited to serve as a reviewer for ICML 2020.
-<li> 11/10/19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to AAAI 2020 as oral presentation.
-<li> 09/03/19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to Neurips 2019.
+11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
+11/10/19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to AAAI 2020 as oral presentation. <br>
+09/03/19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to Neurips 2019. <br>
 
