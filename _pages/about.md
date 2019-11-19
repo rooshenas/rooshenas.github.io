@@ -17,7 +17,7 @@ Currently, I am on the job market for academic positions as well as industrial r
 <li> Structured Prediction
 <li> Energy-Based Models
 <li> Probablistic Graphical Models
-<li> Machine Learning
+<li> Machine Learning 
 
 
 # News
