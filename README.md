@@ -1,5 +1,7 @@
 
 # Research Interest
+Structured Prediction
+
 Energy-Based Models
 
 Probabilistic Graphical Models
