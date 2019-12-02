@@ -20,6 +20,7 @@ Probablistic Graphical Models <br>
 Machine Learning <br>
 
 # News
+11/25/19 -- Invited  to serve on the review committee for ACL 2020. <br>
 11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
 11/10/19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
 09/03/19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to <b>Neurips</b> 2019. <br>
