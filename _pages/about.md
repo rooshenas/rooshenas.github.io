@@ -14,13 +14,13 @@ I got my Ph.D. from University of Oregon working with Daniel Lowd.
 Currently, I am on the job market for academic positions as well as industrial research positions. 
 
 # Research Interest
-<table><tr><td valign="top">
+<table style="border-collapse: collapse; border: none;"><tr><td valign="top">
 Structured Prediction <br>
 Energy-Based Models <br>
 Probablistic Graphical Models <br>
 Deep Learning <br>
 Machine Learning <br>
-  </td> <td align="left"><img src=/images/pedram_cloud.png/></td> </tr></table>
+  </td> <td align="left"><img src="/images/pedram_cloud.png"/></td> </tr></table>
 
 # News
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
