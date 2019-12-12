@@ -20,7 +20,7 @@ Energy-Based Models <br>
 Probablistic Graphical Models <br>
 Deep Learning <br>
 Machine Learning <br>
-  </td> <td align="left"><img src=../images/pedram_cloud.png/></td> </tr></table>
+  </td> <td align="left"><img src=/images/pedram_cloud.png/></td> </tr></table>
 
 # News
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
