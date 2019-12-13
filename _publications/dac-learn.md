@@ -11,7 +11,7 @@ citation: 'Rooshenas, A., Lowd, D., Discriminative Structure Learning of Arithme
 
 ---
 [Download paper here](http://rooshenas.github.io/files/daclearn.pdf)
-[Download the models here] (http://people.cs.umass.edu/~pedram/daclearn/ac_models.tar.gz)
+[Download the models here](http://people.cs.umass.edu/~pedram/daclearn/ac_models.tar.gz)
 [Download the datasets here] 
 
 --- 
