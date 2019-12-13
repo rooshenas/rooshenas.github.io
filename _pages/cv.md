@@ -19,19 +19,14 @@ Work experience
 ======
 * Apr. 2017 - present: Postdoctoral Research Associate
   * University of Massachusetts Amherst
-
 * Sep. 2011 - Mar 2017: Graduate Employee
   * University of Oregon
-  
 * Apr. 2010 - Aug 2011: Software Engineer
   * Maharan Engineering Group - Tehran, Iran
-
 * Sep. 2005 - Sep. 2007: Founder/Project Manager
   * Sepidan System Idea - Tehran, Iran
-  
 * Jun. 2004 - Apr. 2005: Software Developer
   * Eimaa Telecommunication Inc. - Tehran, Iran
-
 * Jun. 2003 - May. 2004: Linux System Developer
   * Maharan Engineering Group. Tehran, Iran
   
@@ -67,6 +62,7 @@ Teaching
 * Fall 2011: Teaching Assistant for “Intermediate Data Structure”, University of Oregon.
 * Spring 2009: Lecturer for “Matlab Programming for Engineers” , Malek-Ashtar University of Technology.
 * Spring 2009: Teaching Assistant for “Computer Networks”, Sharif University of Technology.
+  
   
 Profession Service 
 ======
