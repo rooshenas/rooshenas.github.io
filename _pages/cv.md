@@ -64,7 +64,7 @@ Teaching
 * Spring 2009: Teaching Assistant for “Computer Networks”, Sharif University of Technology.
   
   
-Profession Service 
+Professional Service 
 ======
 * Program Committee/Reviewer: AAAI’20, ICLR’20.
 * Program Committee/Reviewer: AAAI’19, ICLR’19, ICML’19, IJCAI’19, NAACL’19, NeurIPS 2019.
