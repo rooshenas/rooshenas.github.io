@@ -14,7 +14,7 @@ redirect_from:
   <h1> About Me </h1>
 
 I am a post-doctoral researcher working with Andrew McCallum at UMass Amherst.
-I got my Ph.D. from University of Oregon working with Daniel Lowd.
+I got my Ph.D. from University of Oregon working with Daniel Lowd. <br>
 
 Currently, I am on the job market for academic positions as well as industrial research positions. 
 </td>
