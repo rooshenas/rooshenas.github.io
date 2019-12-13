@@ -14,7 +14,7 @@ I got my Ph.D. from University of Oregon working with Daniel Lowd.
 Currently, I am on the job market for academic positions as well as industrial research positions. 
 
 # Research Interest
-<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td width="50%" style="border: none;" valign="top">
+<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td width="50%" style="border: none; font-size: 18pt;" valign="top">
 Structured Prediction <br>
 Energy-Based Models <br>
 Probablistic Graphical Models <br>
