@@ -16,6 +16,6 @@ citation: 'Rooshenas, A., Lowd, D., Discriminative Structure Learning of Arithme
 
 --- 
 
-Complete experimental result is <a href="people.cs.umass.edu/~pedram/daclearn/"> here </a>
+Complete experimental result is <a href="http://people.cs.umass.edu/~pedram/daclearn/"> here </a>
 
 
