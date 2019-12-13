@@ -39,17 +39,17 @@ Work experience
 
 Publications
 ======
- * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.
- * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (NeurIPS’19), 2019.
+ * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
+ * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
  * <b>A. Rooshenas</b>, A. Kamath, and Andrew McCallum, Training Structured Prediction Energy Networks with Indirect Supervision, In Human Language Technology Conference of the North American Chapter of the Association of Computational
-Linguistics (HLT/NAACL), 2018.
- * <b>A. Rooshenas</b> and D. Lowd, Discriminative Structure Learning of Arithmetic Circuits, In Proc. of 19th International Conference on Artificial Intelligence and Statistics (AISTATS), 2016.
+Linguistics (<b>HLT/NAACL</b>), 2018.
+ * <b>A. Rooshenas</b> and D. Lowd, Discriminative Structure Learning of Arithmetic Circuits, In Proc. of 19th International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2016.
  * D. Lowd and <b>A. Rooshenas</b>, The Libra Toolkit for Probabilistic Models, Journal
-of Machine Learning Research, 16:2459-2463, 2015.
- * <b>A. Rooshenas</b> and D. Lowd, Learning Sum-Product Networks with Direct andIndirect Variable Interactions, In Proc. of the Thirty-First International Conference on Machine Learning (ICML’14), 2014.
- * <b>A. Rooshenas</b> and D. Lowd, Learning Tractable Graphical Models Using Mixture of Arithmetic Circuits, Late-Breaking Developments in the Field of Artificial Intelligence, Presented at the Twenty-Seventh AAAI Conference on Artificial Intelligence, AAAI, 2013.
- * D. Lowd, <b>A. Rooshenas</b>, Learning Markov Networks with Arithmetic Circuits, In Proc. of The Sixteenth International Conference on Artificial Intelligence and Statistics (AIStats’13), 2013. 
- * <b>A. Rooshenas</b>, H. R. Rabiee, A. Movaghar. M. Y. Naderi. Reducing Data Transmission in Wireless Sensor Networks Using Principal Component Analysis. In Proc. of The Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP’10), 2010.
+of Machine Learning Research (<b>JMLR</b>), 16:2459-2463, 2015.
+ * <b>A. Rooshenas</b> and D. Lowd, Learning Sum-Product Networks with Direct andIndirect Variable Interactions, In Proc. of the Thirty-First International Conference on Machine Learning (<b>ICML</b>), 2014.
+ * <b>A. Rooshenas</b> and D. Lowd, Learning Tractable Graphical Models Using Mixture of Arithmetic Circuits, Late-Breaking Developments in the Field of Artificial Intelligence, Presented at the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2013.
+ * D. Lowd, <b>A. Rooshenas</b>, Learning Markov Networks with Arithmetic Circuits, In Proc. of The Sixteenth International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2013. 
+ * <b>A. Rooshenas</b>, H. R. Rabiee, A. Movaghar. M. Y. Naderi. Reducing Data Transmission in Wireless Sensor Networks Using Principal Component Analysis. In Proc. of The Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2010.
  
   
 Teaching
