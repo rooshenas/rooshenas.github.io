@@ -35,8 +35,8 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
   <h1> News </h1>
+I will be at AAAI-2020, Feb. 8 - 12.  <br>
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
-11/25/19 -- Invited to serve on the review committee for ACL 2020. <br>
 11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
 11/10/19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
 09/03/19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to <b>Neurips</b> 2019. <br> </td> </tr>
