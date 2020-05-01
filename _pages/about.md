@@ -16,7 +16,6 @@ redirect_from:
 I am a post-doctoral researcher working with Andrew McCallum at UMass Amherst.
 I got my Ph.D. from University of Oregon working with Daniel Lowd. <br>
 
-Currently, I am on the job market for academic positions as well as industrial research positions. 
 </td>
 </tr>
 
@@ -35,6 +34,7 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
   <h1> News </h1>
+I will join UNC Charlotte for Fall 2020 as assistant professor!!
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
 11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
