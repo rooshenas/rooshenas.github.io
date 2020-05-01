@@ -33,8 +33,8 @@ Machine Learning <br>
 
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
-  <h1> News </h1>
-I will join UNC Charlotte for Fall 2020 as an assistant professor!! <br>
+<h1> News </h1>
+04/29/20 -- I will join UNC Charlotte as an assistant professor in August 2020!! <br>
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
 11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
