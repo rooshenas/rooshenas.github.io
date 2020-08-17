@@ -17,11 +17,13 @@ Education
 
 Work experience
 ======
-* Apr. 2017 - present: Postdoctoral Research Associate
+* Aug. 2020 - present: Assistant Professor
+  * University of North Caroline, Charlotte
+* Apr. 2017 - Aug. 2020: Postdoctoral Research Associate
   * University of Massachusetts Amherst
 * Sep. 2011 - Mar 2017: Graduate Employee
   * University of Oregon
-* Apr. 2010 - Aug 2011: Software Engineer
+* Apr. 2010 - Aug. 2011: Software Engineer
   * Maharan Engineering Group - Tehran, Iran
 * Sep. 2005 - Sep. 2007: Founder/Project Manager
   * Sepidan System Idea - Tehran, Iran
