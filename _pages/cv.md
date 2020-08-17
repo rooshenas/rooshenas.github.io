@@ -68,8 +68,8 @@ Teaching
   
 Professional Service 
 ======
-* Program Committee/Reviewer: AAAI’20, ICLR’20, IJCAI'20.
-* Program Committee/Reviewer: AAAI’19, ICLR’19, ICML’19, IJCAI’19, NAACL’19, NeurIPS 2019.
+* Program Committee/Reviewer: AAAI’20, ICLR’20, IJCAI'20, ICML'20, NeurIPS'20.
+* Program Committee/Reviewer: AAAI’19, ICLR’19, ICML’19, IJCAI’19, NAACL’19, NeurIPS'19.
 * Program Committee/Reviewer: IJCAI’18, TPM’18, LND4IR, NIPS’18.
 * Program Committee: ICML’17 Workshop on Deep Structured Prediction. Re- viewer: Machine Learning Journal - Springer, International Journal of Approximate Reasoning, ICML 17.
 * Reviewer: ICML’16, UAI’16, NIPS’16.
