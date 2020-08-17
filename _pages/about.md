@@ -13,7 +13,8 @@ redirect_from:
   <tr style="border: none;"><td style="border: none; font-size: 14pt; vertical-align:top;" valign="top" colspan="2">
   <h1> About Me </h1>
 
-I am a post-doctoral researcher working with Andrew McCallum at UMass Amherst.
+I am an assistant professor in the Department of Computer Science at the Univesity of North Carolina, Charlotte.
+Prior to joining UNC Charlotte, I was a post-doctoral researcher working with Andrew McCallum at UMass Amherst.
 I got my Ph.D. from University of Oregon working with Daniel Lowd. <br>
 
 </td>
