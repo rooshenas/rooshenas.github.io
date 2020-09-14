@@ -35,7 +35,7 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
 <h1> News </h1>
-09/13/20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in working with me, consider applying to <b>UNC Charlotte</b>!
+09/13/20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in working with me, please consider applying to <b>UNC Charlotte</b>!
 04/29/20 -- I will join UNC Charlotte as an assistant professor in August 2020!! <br>
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
 12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
