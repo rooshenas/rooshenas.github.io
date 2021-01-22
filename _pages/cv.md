@@ -50,6 +50,7 @@ of Machine Learning Research (<b>JMLR</b>), 16:2459-2463, 2015.
   
 Teaching
 ======
+* Spring 2021: Lecturer for "Machine Learning", University of North Carolina, Charlotte.
 * Fall 2020: Lecturer for "Advanced Machine Learning", University of North Carolina, Charlotte.
 * Fall 2018: Lecturer for “ML Seminar”, University of Massachusetts Amherst.
 * Fall 2017: Lecturer for “AI/ML Seminar”, University of Massachusetts Amherst.
