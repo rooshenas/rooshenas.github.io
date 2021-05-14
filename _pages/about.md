@@ -36,7 +36,7 @@ Machine Learning <br>
   
 <h1> News </h1>
 May 21 -- Our paper "Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models" has been accepted to <b>ACL'21</b>, main conference. <br>
-Apr 21 -- We are organizing the 4th Workshop on Tractable Probabilistic Models (<b>TPM'21</b>) at UAI'21. Please submit your finest work! <br>
+Apr. 21 -- We are organizing the 4th Workshop on Tractable Probabilistic Models (<b>TPM'21</b>) at UAI'21. Please submit your finest work! <br>
 Sep. 20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in doing a PhD with me, please consider applying to <b>UNC Charlotte</b>! Feel free to contact me if you have any questions. <br>
 Apr. 20 -- I will join UNC Charlotte as an assistant professor in August 2020!! <br>
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
