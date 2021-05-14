@@ -42,8 +42,8 @@ Apr. 20 -- I will join UNC Charlotte as an assistant professor in August 2020!! 
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
 Dec. 19 -- Invited to be a program committee member for IJCAI 2020. <br>
 Nov. 19 -- Invited to serve as a reviewer for ICML 2020. <br>
-Nov. 19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
-Sep. 19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to <b>Neurips</b> 2019. <br> </td> </tr>
+Nov. 19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" has been accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
+Sep. 19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" has been accepted to <b>Neurips</b> 2019. <br> </td> </tr>
 </table>
 
 
