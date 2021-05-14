@@ -35,13 +35,15 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
 <h1> News </h1>
-09/13/20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in doing a PhD with me, please consider applying to <b>UNC Charlotte</b>! Feel free to contact me if you have any questions. <br>
-04/29/20 -- I will join UNC Charlotte as an assistant professor in August 2020!! <br>
+May 21 -- Our paper "Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models" has been accepted to <b>ACL'21<b>, main conference. <br>
+Apr 21 -- We are organizing the 4th Workshop on Tractable Probabilistic Models (<b>TPM'21</b>) at UAI'21. Please submit your finest work! <br>
+Sep. 20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in doing a PhD with me, please consider applying to <b>UNC Charlotte</b>! Feel free to contact me if you have any questions. <br>
+Apr. 20 -- I will join UNC Charlotte as an assistant professor in August 2020!! <br>
 I will be at AAAI-2020, Feb. 8 - 12.  <br>
-12/03/19 -- Invited to be a program committee member for IJCAI 2020. <br>
-11/14/19 -- Invited to serve as a reviewer for ICML 2020. <br>
-11/10/19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
-09/03/19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to <b>Neurips</b> 2019. <br> </td> </tr>
+Dec. 19 -- Invited to be a program committee member for IJCAI 2020. <br>
+Nov. 19 -- Invited to serve as a reviewer for ICML 2020. <br>
+Nov. 19 -- Our paper on "Differential Equation Units: Learning Functional Forms of Activation Functions from Data" was accepted to <b>AAAI </b> 2020 as an <b>oral</b> presentation. <br>
+Sep. 19 -- Our paper on "Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks" was accepted to <b>Neurips</b> 2019. <br> </td> </tr>
 </table>
 
 
