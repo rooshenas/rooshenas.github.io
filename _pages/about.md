@@ -28,6 +28,7 @@ I got my Ph.D. from University of Oregon working with Daniel Lowd. <br>
 Structured Prediction <br>
 Energy-Based Models <br>
 Probablistic Graphical Models <br>
+Machine Learning for Physical Sciences <br>
 Deep Learning <br>
 Machine Learning <br>
   </td> <td width="40%" style="border: none;" align="right"><img width="120%" src="/images/pedram_cloud.png"/></td> </tr>
