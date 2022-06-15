@@ -36,6 +36,11 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
 <h1> News </h1>
+Jun. 22 -- I am hiring <b>PhD students</b> for <b>Spring 2022/Fall 2023</b>. <br>
+Jun. 22 -- I will join <b>UIC</b> as an assistant prefessor in August 2022! <br>
+May. 22 -- I gave an invited talk on "Energy Based Models for Structured Prediction" at the Department of Computer Science, UIUC. <br>
+Apr. 22 -- I gave an invited talk on "Energy Based Models for Structured Prediction" at the Department of Computer Science, UIC.  <br>   
+Mar. 22 -- I gave an invited talk on "Energy Based Models for Structured Prediction" at NEC Labs America.  <br>
 May 21 -- Our paper "Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models" has been accepted to <b>ACL'21</b>, main conference. <br>
 Apr. 21 -- We are organizing the 4th Workshop on Tractable Probabilistic Models (<b>TPM'21</b>) at UAI'21. Please submit your finest work! <br>
 Sep. 20 -- I am hiring <b>PhD students</b> for <b>Fall 2021</b>. If you are interested in doing a PhD with me, please consider applying to <b>UNC Charlotte</b>! Feel free to contact me if you have any questions. <br>
