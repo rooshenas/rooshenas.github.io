@@ -35,6 +35,7 @@ Work experience
 
 Publications
 ======
+* S. Bhattacharyya, <b>A. Rooshenas</b>, S. Naskar, S. Sun, M. Iyyer, and A. McCallum, Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4528–4537. Association for Computational Linguistics (<b>ACL</b>), 2021.
  * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
  * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
  * <b>A. Rooshenas</b>, A. Kamath, and Andrew McCallum, Training Structured Prediction Energy Networks with Indirect Supervision, In Human Language Technology Conference of the North American Chapter of the Association of Computational
@@ -50,7 +51,7 @@ of Machine Learning Research (<b>JMLR</b>), 16:2459-2463, 2015.
   
 Teaching
 ======
-* Spring 2021: Lecturer for "Machine Learning", University of North Carolina, Charlotte.
+* Spring 2021, Fall 2021, Spring, 2022: Lecturer for "Machine Learning", University of North Carolina, Charlotte.
 * Fall 2020: Lecturer for "Advanced Machine Learning", University of North Carolina, Charlotte.
 * Fall 2018: Lecturer for “ML Seminar”, University of Massachusetts Amherst.
 * Fall 2017: Lecturer for “AI/ML Seminar”, University of Massachusetts Amherst.
@@ -70,6 +71,8 @@ Teaching
   
 Professional Service 
 ======
+* Program Committee/Reviewer: ICML'22, NeurIPS'22
+* Program Committee/Reviewer: ICLR'21, ICML'21
 * Program Committee/Reviewer: AAAI’20, ICLR’20, IJCAI'20, ICML'20, NeurIPS'20.
 * Program Committee/Reviewer: AAAI’19, ICLR’19, ICML’19, IJCAI’19, NAACL’19, NeurIPS'19.
 * Program Committee/Reviewer: IJCAI’18, TPM’18, LND4IR, NIPS’18.
