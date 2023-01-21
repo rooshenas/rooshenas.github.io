@@ -36,6 +36,7 @@ Machine Learning <br>
 <tr> <td colspan="2" style="border: none; font-size: 12pt; vertical-align:top;">
   
 <h1> News </h1>
+Jan. 23 -- Our paper "Improved Training of Physics-Informed Neural Networks Using Energy-Based Priors: a Study on Electrical Impedance Tomography" has been accepted to <b>ICLR'23</b>. <br>  
 Jun. 22 -- I am hiring <b>PhD students</b> for <b>Spring/Fall 2023</b>. <br>
 Jun. 22 -- I will join <b>UIC</b> as an assistant prefessor in August 2022! <br>
 May. 22 -- I gave an invited talk on "Energy Based Models for Structured Prediction" at the Department of Computer Science, UIUC. <br>
