@@ -26,7 +26,7 @@ I got my Ph.D. from University of Oregon working with Daniel Lowd. <br>
 <h1> Research Interest </h1>  
 
 Structured Prediction <br>
-Energy-Based Models <br>
+Deep Generative Models <br>
 Probablistic Graphical Models <br>
 Machine Learning for Physical Sciences <br>
 Deep Learning <br>
