@@ -60,18 +60,7 @@ Teaching
 * Fall 2020: "Advanced Machine Learning" @ University of North Carolina, Charlotte.
 * Fall 2018: “ML Seminar” @ University of Massachusetts Amherst.
 * Fall 2017: “AI/ML Seminar” @ University of Massachusetts Amherst.
-<!-- * Winter 2017: Teaching assistant for “Machine Learning”, University of Oregon.
-* Fall 2016: Teaching Assistant for Intro to Artificial Intelligence, University of Oregon.
-* April, May 2016: Guest Lecturer for “Probabilistic Graphical Models”, University of Oregon.
-* Spring 2015: Teaching Assistant for “Probabilistic Graphical Models”, University of Oregon.
-* Spring 2013: Lab instructor for “Fluency with Information Technology”, University of Oregon.
-* Winter 2013: Teaching Assistant for “Intro to Algorithm”, University of Oregon.
-* Fall 2012: Teaching Assistant for “Intro to Artificial Intelligence”, University of Oregon.
-* Spring 2012: Lab instructor for “Intro to Computer Networks”, University of Oregon.
-* Winter 2012: Lab instructor for “Intro to Programming and Algorithms”, University of Oregon.
-* Fall 2011: Teaching Assistant for “Intermediate Data Structure”, University of Oregon.
-* Spring 2009: Lecturer for “Matlab Programming for Engineers” , Malek-Ashtar University of Technology.
-* Spring 2009: Teaching Assistant for “Computer Networks”, Sharif University of Technology. -->
+
   
   
 Professional Service 
