@@ -37,7 +37,7 @@ Work experience
 
 Publications
 ======
-A. Pokkunuru, <b>A. Rooshenas</b>, T. Strauss, A. Abhishek, T. Khan, Improved Training of Physics-informed Neural Networks using Energy-Based priors: A Study on Electrical Impedance Tomography, In Proceedings of the 11th International Conference on Learning Representations (<b>ICLR<\b>), 2023. 
+* A. Pokkunuru, <b>A. Rooshenas</b>, T. Strauss, A. Abhishek, T. Khan, Improved Training of Physics-informed Neural Networks using Energy-Based priors: A Study on Electrical Impedance Tomography, In Proceedings of the 11th International Conference on Learning Representations (<b>ICLR</b>), 2023. 
 * S. Bhattacharyya, <b>A. Rooshenas</b>, S. Naskar, S. Sun, M. Iyyer, and A. McCallum, Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4528–4537. Association for Computational Linguistics (<b>ACL</b>), 2021.
  * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
  * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
