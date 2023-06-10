@@ -15,6 +15,7 @@ redirect_from:
 I am an Assistant Professor at the University of Illinois Chicago and conducting machine learning research with a focus on the applications of deep generative models in language modeling, machine translation, multimodal learning, and physical sciences. 
 
 <br>
+<br>
 I had the opportunity to do a post-doctoral research with Andrew McCallum at UMass Amherst, focusing on structured prediction energy networks (SPENs). Prior to that, I completed my Ph.D. at the University of Oregon under the guidance of Daniel Lowd, specializing in tractable probabilistic models and probabilistic circuits.
     
 </td>
