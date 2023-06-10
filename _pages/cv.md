@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Aug. 2020 - present: Assistant Professor
+* Aug. 2022 - present: Assistant Professor
+  * University of Illinois Chicago  
+* Aug. 2020 - June 2022: Assistant Professor
   * University of North Caroline, Charlotte
 * Apr. 2017 - Aug. 2020: Postdoctoral Research Associate
   * University of Massachusetts Amherst
@@ -35,6 +37,7 @@ Work experience
 
 Publications
 ======
+A. Pokkunuru, <b>A. Rooshenas</b>, T. Strauss, A. Abhishek, T. Khan, Improved Training of Physics-informed Neural Networks using Energy-Based priors: A Study on Electrical Impedance Tomography, In Proceedings of the 11th International Conference on Learning Representations (<b>ICLR<\b>), 2023. 
 * S. Bhattacharyya, <b>A. Rooshenas</b>, S. Naskar, S. Sun, M. Iyyer, and A. McCallum, Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4528–4537. Association for Computational Linguistics (<b>ACL</b>), 2021.
  * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
  * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
@@ -51,11 +54,13 @@ of Machine Learning Research (<b>JMLR</b>), 16:2459-2463, 2015.
   
 Teaching
 ======
-* Spring 2021, Fall 2021, Spring, 2022: Lecturer for "Machine Learning", University of North Carolina, Charlotte.
-* Fall 2020: Lecturer for "Advanced Machine Learning", University of North Carolina, Charlotte.
-* Fall 2018: Lecturer for “ML Seminar”, University of Massachusetts Amherst.
-* Fall 2017: Lecturer for “AI/ML Seminar”, University of Massachusetts Amherst.
-* Winter 2017: Teaching assistant for “Machine Learning”, University of Oregon.
+* Spring 2023: "Intro to Machine Learning" @ University of Illinois Chicago
+* Fall 2022: "Deep Generative Models" @ University of Illinois Chiacgo  
+* Spring 2021, Fall 2021, Spring, 2022: "Machine Learning" @ University of North Carolina, Charlotte.
+* Fall 2020: "Advanced Machine Learning" @ University of North Carolina, Charlotte.
+* Fall 2018: “ML Seminar” @ University of Massachusetts Amherst.
+* Fall 2017: “AI/ML Seminar” @ University of Massachusetts Amherst.
+<!-- * Winter 2017: Teaching assistant for “Machine Learning”, University of Oregon.
 * Fall 2016: Teaching Assistant for Intro to Artificial Intelligence, University of Oregon.
 * April, May 2016: Guest Lecturer for “Probabilistic Graphical Models”, University of Oregon.
 * Spring 2015: Teaching Assistant for “Probabilistic Graphical Models”, University of Oregon.
@@ -66,19 +71,23 @@ Teaching
 * Winter 2012: Lab instructor for “Intro to Programming and Algorithms”, University of Oregon.
 * Fall 2011: Teaching Assistant for “Intermediate Data Structure”, University of Oregon.
 * Spring 2009: Lecturer for “Matlab Programming for Engineers” , Malek-Ashtar University of Technology.
-* Spring 2009: Teaching Assistant for “Computer Networks”, Sharif University of Technology.
+* Spring 2009: Teaching Assistant for “Computer Networks”, Sharif University of Technology. -->
   
   
 Professional Service 
 ======
-* Program Committee/Reviewer: ICML'22, NeurIPS'22
-* Program Committee/Reviewer: ICLR'21, ICML'21
+* Reviewer: Journal of Machine Learning Research - Software Track.
+* Program Committee/Reviewer: ICLR'23, Neurips'23.
+* Program Committee/Reviewer: ICML'22, NeurIPS'22.
+* Program Committee/Reviewer: ICLR'21, ICML'21.
+* Workshop Co-chair for Tractable Probabilistic Methods, TPM 2021, at UAI’21.
 * Program Committee/Reviewer: AAAI’20, ICLR’20, IJCAI'20, ICML'20, NeurIPS'20.
 * Program Committee/Reviewer: AAAI’19, ICLR’19, ICML’19, IJCAI’19, NAACL’19, NeurIPS'19.
 * Program Committee/Reviewer: IJCAI’18, TPM’18, LND4IR, NIPS’18.
-* Program Committee: ICML’17 Workshop on Deep Structured Prediction. Re- viewer: Machine Learning Journal - Springer, International Journal of Approximate Reasoning, ICML 17.
+* Program Committee: ICML’17 Workshop on Deep Structured Prediction. 
+* Reviewer: Machine Learning Journal - Springer, International Journal of Approximate Reasoning, ICML 17.
 * Reviewer: ICML’16, UAI’16, NIPS’16.
-* Student representative in Graduate Education Committee, Department of Com- puter and Information Science, University of Oregon.
+<!-- * Student representative in Graduate Education Committee, Department of Computer and Information Science, University of Oregon. -->
 * Program Committee, IJCAI’15.
 * Reviewer: AAAI’15.
 * Reviewer: NIPS’14.
