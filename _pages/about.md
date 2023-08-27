@@ -12,7 +12,7 @@ redirect_from:
   
   <tr style="border: none;"><td style="border: none; font-size: 14pt; vertical-align:top;" valign="top" colspan="2">
   <h1> About Me </h1>
-I am an Assistant Professor at the University of Illinois Chicago and conducting machine learning research with a focus on the applications of deep generative models in language modeling, machine translation, multimodal learning, and physical sciences. 
+I am an Assistant Professor at the University of Illinois Chicago and conducting machine learning research with a focus on the applications of deep generative models in language modeling, machine translation, multimodal learning, and scientific machine learning. 
 
 <br>
 <br>
