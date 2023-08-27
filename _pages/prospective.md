@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Prospective Students"
+excerpt: "Prospective Students"
 permalink: /prospective/
 author_profile: true
 redirect_from:
