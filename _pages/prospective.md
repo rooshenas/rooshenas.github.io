@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Prospective Students"
+title: ""
 excerpt: "Prospective Students"
 permalink: /prospective/
 author_profile: true
 redirect_from:
-  - /prospective
+  - /prospective.html
 ---
 {% include base_path %}
 
