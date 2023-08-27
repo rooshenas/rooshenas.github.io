@@ -1,4 +1,12 @@
-<h1>Prospective Students </h1> 
+---
+layout: archive
+title: "Prospective Students"
+permalink: /prospective/
+author_profile: true
+redirect_from:
+  - /prospective
+---
+{% include base_path %}
 
 
 I am consistently in search of highly motivated and strong PhD students, with plans to hire one or two annually. 
