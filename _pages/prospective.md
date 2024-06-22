@@ -36,7 +36,7 @@ If you're keen on joining my team, please ensure you meet the following criteria
 - Experience with large-scale models is a plus
 - Prior experience and familiarity with deep generative models (specifically, VAEs, energy-based models, score-based models, and diffusion models) is a (big) plus
 
-Please email me with the subject line "Prospective Ph.D. Applicant for Fall '24". Attach your CV and, if possible, your Statement of Purpose (SOP), transcripts, and test scores. 
+Please email me with the subject line "Prospective Ph.D. Applicant". Attach your CV and, if possible, your Statement of Purpose (SOP), transcripts, and test scores. 
 If your publications aren't accessible online or haven't been published yet, it would be beneficial to attach them. Even a preliminary draft can provide insight into your background.
 In the body of the email, provide at least two paragraphs detailing your qualifications and previous experiences in relation to the criteria mentioned above.
 I will only respond to applicants who detail their qualifications in line with the aforementioned criteria. Generic inquiries about Ph.D. positions may not receive a reply.
