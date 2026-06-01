@@ -11,7 +11,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Oregon, 2017
-* M.S. in Computer Science, University of Oregon, 2016
 * M.S. in Information Technology, Sharif University of Technology, 2010
 * B.S. in Software Engineering, Shahid Beheshti University, 2007
 
@@ -37,25 +36,31 @@ Work experience
 
 Publications
 ======
-* A. Pokkunuru, <b>A. Rooshenas</b>, T. Strauss, A. Abhishek, T. Khan, Improved Training of Physics-informed Neural Networks using Energy-Based priors: A Study on Electrical Impedance Tomography, In Proceedings of the 11th International Conference on Learning Representations (<b>ICLR</b>), 2023. 
-* S. Bhattacharyya, <b>A. Rooshenas</b>, S. Naskar, S. Sun, M. Iyyer, and A. McCallum, Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4528–4537. Association for Computational Linguistics (<b>ACL</b>), 2021.
- * MA. Torkamani, S. Shankar, <b>A. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, To be appeared in In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
- * <b>A. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search- Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
- * <b>A. Rooshenas</b>, A. Kamath, and Andrew McCallum, Training Structured Prediction Energy Networks with Indirect Supervision, In Human Language Technology Conference of the North American Chapter of the Association of Computational
+
+* D. Wesego, <b> P. Rooshenas </b>, Adversary Aware Optimization for Robust Defense, In Advances in Neural Information Processing Systems 39 (NeurIPS), 2025.
+* S. Riazi, <b> P. Rooshenas </b>, LLM-Driven Feedback for Enhancing Conceptual Design Learning in Database Systems Courses, Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE), 2025.
+* D. Wesego, <b> P. Rooshenas </b>,  Score-Based Multimodal Autoencoders. Transactions on Machine Learning Research. 2024.
+* A. Pokkunuru, <b>P. Rooshenas</b>, T. Strauss, A. Abhishek, T. Khan, Improved Training of Physics-informed Neural Networks using Energy-Based priors: A Study on Electrical Impedance Tomography, In Proceedings of the 11th International Conference on Learning Representations (<b>ICLR</b>), 2023. 
+* S. Bhattacharyya, <b>P. Rooshenas</b>, S. Naskar, S. Sun, M. Iyyer, and A. McCallum, Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4528–4537. Association for Computational Linguistics (<b>ACL</b>), 2021.
+ * MA. Torkamani, S. Shankar, <b>P. Rooshenas</b>, and Phillip Wallis, Differential Equation Units: Learning Functional Forms of Activation Functions from Data, In Proc. of The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020.
+ * <b>P. Rooshenas</b>, Dongxu Zhang, Gopal Sharma, and Andrew McCallum, Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks, In Advances in Neural Information Processing Systems 32 (<b>NeurIPS</b>), 2019.
+ * <b>P. Rooshenas</b>, A. Kamath, and Andrew McCallum, Training Structured Prediction Energy Networks with Indirect Supervision, In Human Language Technology Conference of the North American Chapter of the Association of Computational
 Linguistics (<b>HLT/NAACL</b>), 2018.
- * <b>A. Rooshenas</b> and D. Lowd, Discriminative Structure Learning of Arithmetic Circuits, In Proc. of 19th International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2016.
- * D. Lowd and <b>A. Rooshenas</b>, The Libra Toolkit for Probabilistic Models, Journal
+ * <b>P. Rooshenas</b> and D. Lowd, Discriminative Structure Learning of Arithmetic Circuits, In Proc. of 19th International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2016.
+ * D. Lowd and <b>P. Rooshenas</b>, The Libra Toolkit for Probabilistic Models, Journal
 of Machine Learning Research (<b>JMLR</b>), 16:2459-2463, 2015.
- * <b>A. Rooshenas</b> and D. Lowd, Learning Sum-Product Networks with Direct andIndirect Variable Interactions, In Proc. of the Thirty-First International Conference on Machine Learning (<b>ICML</b>), 2014.
- * <b>A. Rooshenas</b> and D. Lowd, Learning Tractable Graphical Models Using Mixture of Arithmetic Circuits, Late-Breaking Developments in the Field of Artificial Intelligence, Presented at the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2013.
- * D. Lowd, <b>A. Rooshenas</b>, Learning Markov Networks with Arithmetic Circuits, In Proc. of The Sixteenth International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2013. 
- * <b>A. Rooshenas</b>, H. R. Rabiee, A. Movaghar. M. Y. Naderi. Reducing Data Transmission in Wireless Sensor Networks Using Principal Component Analysis. In Proc. of The Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2010.
+ * <b>P. Rooshenas</b> and D. Lowd, Learning Sum-Product Networks with Direct andIndirect Variable Interactions, In Proc. of the Thirty-First International Conference on Machine Learning (<b>ICML</b>), 2014.
+ * <b>P. Rooshenas</b> and D. Lowd, Learning Tractable Graphical Models Using Mixture of Arithmetic Circuits, Late-Breaking Developments in the Field of Artificial Intelligence, Presented at the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2013.
+ * D. Lowd, <b>P. Rooshenas</b>, Learning Markov Networks with Arithmetic Circuits, In Proc. of The Sixteenth International Conference on Artificial Intelligence and Statistics (<b>AISTATS</b>), 2013. 
+ * <b>P. Rooshenas</b>, H. R. Rabiee, A. Movaghar. M. Y. Naderi. Reducing Data Transmission in Wireless Sensor Networks Using Principal Component Analysis. In Proc. of The Sixth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2010.
  
   
 Teaching
 ======
-* Spring 2023: "Intro to Machine Learning" @ University of Illinois Chicago
-* Fall 2022: "Deep Generative Models" @ University of Illinois Chiacgo  
+* Fall 2025: "Generative AI" @ University of Illinois Chicago
+* Fall 2024: "Advanced Machine Learning" @ University of Illinois Chicago
+* Spring 2023, Fall 2023, Spring 2025, Spring 2026: "Intro to Machine Learning" @ University of Illinois Chicago
+* Fall 2022: "Deep Generative Models" @ University of Illinois Chicago  
 * Spring 2021, Fall 2021, Spring, 2022: "Machine Learning" @ University of North Carolina, Charlotte.
 * Fall 2020: "Advanced Machine Learning" @ University of North Carolina, Charlotte.
 * Fall 2018: “ML Seminar” @ University of Massachusetts Amherst.
