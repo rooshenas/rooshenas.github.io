@@ -50,7 +50,7 @@ author_profile: true
 <div class="student-name">Daniel Wesego</div>
 <div class="student-role">PhD Student, University of Illinois Chicago</div>
 <div class="student-bio">
-Daniel's research focuses on robust machine learning and deep generative models. He develops methods that improve the reliability of neural networks against adversarial perturbations, and explores multimodal generative models — particularly diffusion-based and score-based autoencoders — for structured representation learning across multiple modalities.
+Daniel's research focuses on robust machine learning and deep generative models. He develops methods to improve the reliability of neural networks under adversarial perturbations and investigates multimodal generative models, especially diffusion-based and score-based autoencoders, for structured representation learning across multiple modalities.
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
@@ -79,7 +79,7 @@ Sumanta's research centers on large language model reasoning, alignment, and con
 <div class="student-name">Guorui Sang</div>
 <div class="student-role">PhD Student, University of Illinois Chicago</div>
 <div class="student-bio">
-Guorui's research lies at the intersection of deep generative models and scientific machine learning, with a focus on applying diffusion and flow-based models to physics-constrained problems. His current work explores Hamiltonian-guided generative methods for trajectory generation in robotic systems.
+Guorui's research focuses on physics-informed deep generative models and probabilistic fields.
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
