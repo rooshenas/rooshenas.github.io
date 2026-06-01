@@ -44,7 +44,6 @@ author_profile: true
 }
 </style>
 
-## PhD Students
 
 <div class="student-card">
 <div class="student-name">Daniel Wesego</div>
