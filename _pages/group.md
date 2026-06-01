@@ -50,7 +50,7 @@ author_profile: true
 <div class="student-name">Daniel Wesego</div>
 <div class="student-role">PhD Student, University of Illinois Chicago</div>
 <div class="student-bio">
-robust ML &amp; deep generative models
+Robust ML &amp; Deep Generative Models
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
@@ -65,7 +65,7 @@ robust ML &amp; deep generative models
 <div class="student-name">Sumanta Bhattacharyya</div>
 <div class="student-role">PhD Student, University of Illinois Chicago</div>
 <div class="student-bio">
-LLM reasoning, alignment &amp; controllable generation
+LLM Reasoning, Alignment &amp; Controllable Generation
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
@@ -79,7 +79,7 @@ LLM reasoning, alignment &amp; controllable generation
 <div class="student-name">Guorui Sang</div>
 <div class="student-role">PhD Student, University of Illinois Chicago</div>
 <div class="student-bio">
-physics-informed deep generative models and probabilistic fields
+Physics-Informed Deep Generative Models and Probabilistic Fields
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
