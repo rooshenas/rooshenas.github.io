@@ -85,3 +85,11 @@ Physics-Informed Deep Generative Models and Probabilistic Fields
   <li>G. Sang, P. Rooshenas. <b>Hamiltonian-Guided Diffusion Fields for Variable-Length Rigid-Arm Trajectory Generation.</b> ICLR Workshop on Real-World Constrained and Preference-Aligned Flow and Diffusion-Based Models, 2026.</li>
 </ul>
 </div>
+
+<div class="student-card">
+<div class="student-name">Arjunaditya Fnu</div>
+<div class="student-role">MSc Student, University of Illinois Chicago</div>
+<div class="student-bio">
+Inference Methods in Denoising Language Models, Prompt Purification
+</div>
+</div>
