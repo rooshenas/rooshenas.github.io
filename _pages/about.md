@@ -32,7 +32,7 @@ Before joining UIC, I was a postdoctoral researcher at the University of Massach
 
 Deep Generative Models <br>
 Probabilistic Machine Learning <br>
-Probabilistic Graphical Models and Probabilistic Circuits <br>
+Trustworthy Machine Learning <br>
 Scientific Machine Learning <br>
 Physics-Informed Machine Learning <br>
 Large Language Model Reasoning <br>
