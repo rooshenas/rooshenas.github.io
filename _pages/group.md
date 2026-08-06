@@ -69,7 +69,7 @@ LLM Reasoning, Alignment &amp; Controllable Generation
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
   <li>S. Bhattacharyya, P. Rooshenas. <b>Steered Generation via Gradient-Based Optimization on Sparse Query Features.</b> arXiv preprint arXiv:2605.23040, 2026.</li>
-  <li>S. Bhattacharyya, S.Riazi, P. Rooshenas. <b>Audited Reasoning Refinement: Fine-Tuning Language Models via LLM-Guided Step-Wise Evaluation and Correction.</b> arXiv preprint arXiv:2509.12476, 2025.</li>
+  <li>S. Bhattacharyya, S. Riazi, P. Rooshenas. <b>Audited Reasoning Refinement: Fine-Tuning Language Models via LLM-Guided Step-Wise Evaluation and Correction.</b> arXiv preprint arXiv:2509.12476, 2025.</li>
   <li>S. Bhattacharyya, P. Rooshenas, S. Naskar, S. Sun, M. Iyyer, A. McCallum. <b>Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models.</b> ACL, 2021.</li>
 </ul>
 </div>
