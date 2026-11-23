@@ -68,9 +68,9 @@ LLM Reasoning, Alignment &amp; Controllable Generation
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
-  <li>S. Bhattacharyya, P. Rooshenas. <b>RiskSteer: Joint Risk-Guided Steering of Language Model Reasoning. </b> <a href="http://rooshenas.github.io/files/risksteering.pdf"> PDF </a>(under review). </li>
-  <li>S. Bhattacharyya, P. Rooshenas. <b>Steered Generation via Gradient-Based Optimization on Sparse Query Features.</b> arXiv preprint arXiv:2605.23040, 2026.</li>
-  <li>S. Bhattacharyya, S. Riazi, P. Rooshenas. <b>Audited Reasoning Refinement: Fine-Tuning Language Models via LLM-Guided Step-Wise Evaluation and Correction.</b> arXiv preprint arXiv:2509.12476, 2025.</li>
+  <li>S. Bhattacharyya, P. Rooshenas. <b>RiskSteer: Joint Risk-Guided Steering of Language Model Reasoning. </b> <a href="http://rooshenas.github.io/files/risksteering.pdf"> PDF </a>(under review), 2026. </li>
+  <li>S. Bhattacharyya, P. Rooshenas. <b>Steered Generation via Gradient-Based Optimization on Sparse Query Features.</b> <a href="https://arxiv.org/abs/2609.38348"> arXiv preprint,</a> 2026.</li>
+  <li>S. Bhattacharyya, S. Riazi, P. Rooshenas. <b>Audited Reasoning Refinement: Fine-Tuning Language Models via LLM-Guided Step-Wise Evaluation and Correction.</b> <a href="https://arxiv.org/pdf/2509.12476">arXiv preprint,</a>2025.</li>
   <li>S. Bhattacharyya, P. Rooshenas, S. Naskar, S. Sun, M. Iyyer, A. McCallum. <b>Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models.</b> ACL, 2021.</li>
 </ul>
 </div>
@@ -83,7 +83,9 @@ Physics-Informed Deep Generative Models and Probabilistic Fields
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
+  <li>G. Sang, P. Rooshenas. <b>Function-Space Transformer with Adaptive Anchors. </b> arXiv preprint 
   <li>G. Sang, P. Rooshenas. <b>Hamiltonian-Guided Diffusion Fields for Variable-Length Rigid-Arm Trajectory Generation.</b> ICLR Workshop on Real-World Constrained and Preference-Aligned Flow and Diffusion-Based Models, 2026.</li>
+  
 </ul>
 </div>
 
