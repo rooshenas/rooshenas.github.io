@@ -83,7 +83,7 @@ Physics-Informed Deep Generative Models and Probabilistic Fields
 </div>
 <div class="section-label">Selected Publications</div>
 <ul class="pub-list">
-  <li>G. Sang, P. Rooshenas. <b>Function-Space Transformer with Adaptive Anchors. </b> arXiv preprint 
+  <li>G. Sang, P. Rooshenas. <b>Function-Space Transformer with Adaptive Anchors. </b> <a href="https://arxiv.org/abs/2609.38348">arXiv preprint,</a> 2026.  </li>
   <li>G. Sang, P. Rooshenas. <b>Hamiltonian-Guided Diffusion Fields for Variable-Length Rigid-Arm Trajectory Generation.</b> ICLR Workshop on Real-World Constrained and Preference-Aligned Flow and Diffusion-Based Models, 2026.</li>
   
 </ul>
